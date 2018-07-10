@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\ChatUDP\Chat\bin\Debug\Chat.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\ChatUDP\Chat\obj\Debug\Chat.FrmMensaje.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\ChatUDP\Chat\obj\Debug\Chat.FrmLogin.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\ChatUDP\Chat\obj\Debug\Chat.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\ChatUDP\Chat\obj\Debug\Chat.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\ChatUDP\Chat\bin\Debug\Chat.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\ChatUDP\Chat\bin\Debug\Chat.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\ChatUDP\Chat\obj\Debug\Chat.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\ChatUDP\Chat\obj\Debug\Chat.pdb
